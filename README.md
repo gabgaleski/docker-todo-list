@@ -1,10 +1,21 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# :open_book: Docker Todo-List :open_book:
+
+<br>
+
+ <img width="700" alt="Imagem pagina wallet" src="./image.jpeg">
+
+<br>
+
+# :clipboard: About
+O projeto tem como objetivo "Dockerizar" uma aplicação ja feita com Front-End, Back-End e Testes. Na aplicação, foi utilizado o Docker CLI, Docker File e Docker Compose para criar containers nas aplicações 
+<br>
+
+
+# :hammer_and_wrench: Skills & Tools
+
+- Docker
+- Docker Compose
+- Docker File
+
+
+<br>
